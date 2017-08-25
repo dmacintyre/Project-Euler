@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1454258901 source:d:\cpp_project_euler\problem_205\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+
